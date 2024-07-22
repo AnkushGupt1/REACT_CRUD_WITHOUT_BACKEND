@@ -1,0 +1,20 @@
+/* About.module.css */
+
+.aboutContainer {
+    text-align: center;
+    margin: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  .imageContainer {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image {
+    width: 300px;
+    height: auto;
+  }
+  
